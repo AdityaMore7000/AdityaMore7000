@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Aditya More, I am currently pursuing my Bachelors in Computer Engineering at Pune Institute at Computer Technology. I am interested in Web Development and Competitive Programming.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaMore7000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AdityaMore7000/AdityaMore7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
