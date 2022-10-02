@@ -5,7 +5,7 @@ I am currently pursuing my Bachelors in Computer Engineering at Pune Institute a
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaMore7000)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##Skills
+## Skills
 * HTML/ CSS/ JS
 * C++
 * Python
