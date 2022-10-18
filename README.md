@@ -2,7 +2,7 @@
 
 I am currently pursuing my Bachelors in Computer Engineering at Pune Institute at Computer Technology. I am interested in Web Development and Competitive Programming.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaMore7000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaMore7000&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
