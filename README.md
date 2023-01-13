@@ -26,6 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamore7000&show_icons=true&locale=en&layout=compact" alt="adityamore7000" /></p>
 <br>
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamore7000)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamore7000&show_icons=true&theme=tokyonight&locale=en" alt="adityamore7000" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamore7000&" alt="adityamore7000" /></p>-->
 
 [![@adityamore7000's Holopin board](https://holopin.me/adityamore7000)](https://holopin.io/@adityamore7000)
