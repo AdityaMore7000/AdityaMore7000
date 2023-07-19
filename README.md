@@ -3,7 +3,7 @@
 <!-- GitHub Intro Banner End -->
 
 <h1 align="center">Hi 👋, I'm Aditya More</h1>
-<h3 align="center">Web Development Enthusiast. Second Year Computer Engineering Student at Pune Institute of Computer Technology.</h3>
+<h3 align="center">Web Development Enthusiast. Third Year Computer Engineering Student at Pune Institute of Computer Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamore7000&label=Profile%20views&color=0e75b6&style=flat" alt="adityamore7000" /> </p>
 
