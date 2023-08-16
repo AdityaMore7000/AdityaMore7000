@@ -34,8 +34,6 @@
  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
 </p>
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdityaMore7000&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamore7000&show_icons=true&locale=en&layout=compact" alt="adityamore7000" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamore7000&show_icons=true&theme=tokyonight&locale=en" alt="adityamore7000" /></p>
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamore7000&" alt="adityamore7000" /></p>-->
