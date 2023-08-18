@@ -34,7 +34,8 @@
  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
 </p>
 
-![snake gif](https://github.com/adityamore7000/adityamore7000/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AdityaMore7000/AdityaMore7000/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/AdityaMore7000/AdityaMore7000/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamore7000&show_icons=true&locale=en&layout=compact" alt="adityamore7000" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamore7000&show_icons=true&theme=tokyonight&locale=en" alt="adityamore7000" /></p>
