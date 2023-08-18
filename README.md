@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamore7000&label=Profile%20views&color=0e75b6&style=flat" alt="adityamore7000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamore7000" alt="adityamore7000" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaMore7000&theme=tokyonight&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) 
 
 - 🌱 I’m currently learning **Web Development**
 
